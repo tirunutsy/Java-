@@ -1,6 +1,8 @@
 package AllPrograms;
 import java.util.*;
 
+// Program using all important data types with User Input(By Taking input from User)
+
 public class DataTypesWIthUserInput {
 	
 	public static void main(String[] args) {
