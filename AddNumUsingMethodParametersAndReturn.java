@@ -1,6 +1,8 @@
 package AllPrograms;
 
 public class AddNumUsingMethodParametersAndReturn {
+
+	//Adding two numbers using method parameters and return type :
 	
 	static void AddMethodParameters(int a, int b) {
 		int temp = a+b;
